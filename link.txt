@@ -4,3 +4,5 @@ http://forumsarchive.laravel.io/viewtopic.php?id=1304
 
 
 http://stackoverflow.com/questions/23521781/laravel-4-auth-via-ajax-possible-session-issue/23558877#23558877
+
+1
