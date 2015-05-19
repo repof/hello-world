@@ -1,0 +1,26 @@
+
+any number of categories ...
+each category can hold 3 2nd-evel categories
+each 2nd level category can hold 3 sub-categories
+
+categories -> 2nd-level category -> sub-category
+
+
+Sports -> Cricket  ----------------------> 1- Bowling, 2- Batting, 3- Fielding       
+       -> Tenis  ------------------->	1- option1, 2- option2, 3- option3
+       -> Footbal  -------------->  1- footbal1, 2- football2, 3- football3
+
+table list
+
+->
+1- Category
+2- Second_Level_Category
+3- Sub_Category 		
+4- Content   			//videos or images -- can also keeps the information about how many time this content has been viewed... 	
+5- Like     			//who like the post and give Best@ 	
+6- Comments 
+7- Users 
+8- Followers (Fan)
+9- Flags			//wrong_category, inappropriate, unoriginal
+10- Events			//calender events or anyother events....
+11- Challenges			//weekly challenges information...
